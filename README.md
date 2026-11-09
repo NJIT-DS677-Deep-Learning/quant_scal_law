@@ -26,6 +26,6 @@ Using EleutherAI's Pythia model family suite on Hugging Face, I will investigate
 [2]  T. Kumar et al., "Scaling Laws for Precision," 2024, *arXiv:2411.04330v2*.
 
 **Contributor**  
-Nosa Omoregie 
+Nosa Omoregie (no239@njit.edu)
 
  
