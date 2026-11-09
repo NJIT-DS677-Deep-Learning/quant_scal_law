@@ -25,7 +25,7 @@ Using EleutherAI's Pythia model family suite on Hugging Face, I will investigate
 [1] J. Hoffmann et al., "Training compute-optimal large language models," in *Proc. 36th Conf. Neural Inf. Process. Syst.*, New Orleans, LA, USA, Nov. 28–Dec. 9, 2022, pp. 30016–30030.  
 [2]  T. Kumar et al., "Scaling Laws for Precision," 2024, *arXiv:2411.04330v2*.
 
-**Contributors**  
+**Contributor**  
 Nosa Omoregie 
 
  
